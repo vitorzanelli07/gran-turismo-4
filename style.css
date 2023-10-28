@@ -19,11 +19,21 @@ h4 {text-align: center;}
 
 
 h5{font-size: 170%}
-h5{color: black}
+h5{color: rgb(3, 3, 3)}
 h5 {text-align: center;}
 
-#Gt4 {margin-left: 30%}
-#Gt4 {width: 40% }
-#Gt4 {size: -1000}
-#Gt4 {border-color: red;}
+#gran {margin-left: 30%}
+#gran {width: 40% }
+#gran {size: 500% }
+#gran {border-color: red;}
+
+#pista {margin-left: 27%}
+#pista {width: 40%}
+#pista {size: 250%}
+#pista {border-color: red;}
+
+#lancer {margin-left: 27%}
+#lancer {width: 40%}
+#lancer {size: 250%}
+#lancer {border-color: red;}
 
