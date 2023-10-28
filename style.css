@@ -30,10 +30,40 @@ h5 {text-align: center;}
 #pista {margin-left: 20%}
 #pista {width: 20%}
 #pista {size: 100%}
-#pista {border-color: red;}
+#pista {border-color: black;}
 
 #lancer {margin-left: 40%}
 #lancer {width: 40%}
 #lancer {size: 100%}
-#lancer {border-color: red;}
+#lancer {border-color: black;}
+
+#menu {margin-left: 27%}
+#menu {width: 40%}
+#mebu {size: 250%}
+#menu {border-color: black;}
+
+#spec {margin-left: 27%}
+#spec {width: 40%}
+#spec {size: 250%}
+#spec {border-color: black;}
+
+#audi {margin-left: 27%}
+#audi {width: 40%}
+#audi {size: 250%}
+#audi {border-color: black;}
+
+#nissan {margin-left: 27%}
+#nissan {width: 40%}
+#nissan {size: 250%}
+#nissan {border-color: black;}
+
+#lemans {margin-left: 27%}
+#lemans {width: 40%}
+#lemans {size: 250%}
+#lemans {border-color: black;}
+
+#mer {margin-left: 27%}
+#mer {width: 40%}
+#mer {size: 250%}
+#mer {border-color: black;}
 
